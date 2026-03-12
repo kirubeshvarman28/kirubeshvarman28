@@ -3,7 +3,7 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=safari&logoColor=white)]()
-[![GitHub followers](https://img.shields.io/github/followers/TheUnknown550?style=for-the-badge&logo=github)](https://github.com/kirubeshvarman28)
+[![GitHub followers](https://img.shields.io/github/followers/kirubeshvarman28?style=for-the-badge&logo=github)](https://github.com/kirubeshvarman28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()
 
 </div>
