@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-mattcosh.com-blue?style=for-the-badge&logo=safari&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=safari&logoColor=white)]()
 [![GitHub followers](https://img.shields.io/github/followers/TheUnknown550?style=for-the-badge&logo=github)](https://github.com/kirubeshvarman28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()
 
@@ -60,8 +60,8 @@
 
 Always down to collaborate on ambitious tech projects—whether it's **AI research**, **full-stack development**, **IoT systems**, or **game development**. Let's build something awesome.
 
-- 🌐 **Portfolio**: [mattcosh.com]()
-- 📧 **Email**: [mattcosh06@gmail.com](@gmail.com)
+- 🌐 **Portfolio**: 
+- 📧 **Email**: 
 - 💼 **LinkedIn**: [Connect with me](h)
 
 ---
