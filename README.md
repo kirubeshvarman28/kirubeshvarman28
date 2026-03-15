@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=safari&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=safari&logoColor=white)](https://kirubeshvarman28.github.io/portfolio)
 [![GitHub followers](https://img.shields.io/github/followers/kirubeshvarman28?style=for-the-badge&logo=github)](https://github.com/kirubeshvarman28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]()
 
@@ -60,7 +60,7 @@
 
 Always down to collaborate on ambitious tech projects—whether it's **AI research**, **full-stack development**, **IoT systems**, or **game development**. Let's build something awesome.
 
-- 🌐 **Portfolio**: 
+- 🌐 **Portfolio**: https://kirubeshvarman28.github.io/portfolio
 - 📧 **Email**: 
 - 💼 **LinkedIn**: [Connect with me](h)
 
